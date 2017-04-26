@@ -1,0 +1,13 @@
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\EEPrepUnitTestProject.dll
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\EEPrepUnitTestProject.pdb
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\EEPrep.exe
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\MySql.Data.dll
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\EEPrep.pdb
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\obj\Debug\EEPrepUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\obj\Debug\EEPrepUnitTestProject.dll
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\obj\Debug\EEPrepUnitTestProject.pdb
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\EEPrepUnitTestProject.dll.config
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\Castle.Core.dll
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\Moq.dll
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\Castle.Core.xml
+C:\Users\Esther\documents\visual studio 2015\Projects\EEPrep\EEPrepUnitTestProject\bin\Debug\Moq.xml
